@@ -1,0 +1,10 @@
+TableSeq
+Copyright 2026 Laziz Hamdi
+
+The file tableseq/models/modeling_mbart.py is derived from Hugging Face
+Transformers' mBART implementation and retains its original Apache-2.0 notice.
+
+The example table image in examples/sample_table.png is adapted from Table 5
+of Chung et al., Journal of Cardiothoracic Surgery 6, 46 (2011), and is used
+under the Creative Commons Attribution 2.0 International License. Full
+attribution is provided in examples/ATTRIBUTION.md.

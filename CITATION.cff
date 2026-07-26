@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use TableSeq, please cite the associated paper."
+title: "TableSeq"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Hamdi
+    given-names: Laziz
+repository-code: "https://github.com/hamdilaziz/TableSeq"
+repository-artifact: "https://zenodo.org/records/21597715"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Tableseq: unified generation of structure, content, and layout"
+  authors:
+    - family-names: Hamdi
+      given-names: Laziz
+    - family-names: Tamasna
+      given-names: Amine
+    - family-names: Boisson
+      given-names: Pascal
+    - family-names: Paquet
+      given-names: Thierry
+  journal: "International Journal on Document Analysis and Recognition"
+  year: 2026
+  doi: "10.1007/s10032-026-00586-6"
